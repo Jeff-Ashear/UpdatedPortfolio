@@ -1,0 +1,82 @@
+#navbar {
+    color: darkorange;
+    background-image: url(../images/Textures/prism.png);
+    box-shadow: 3px 3px 12px darkorange;
+    
+}
+
+.navbar-brand {
+    color: darkorange;
+    border-width: 2px;
+    border-color: darkorange;
+    border-radius: 6px;
+    background-image: url(../images/Textures/mosaic.png);
+    background-size: cover;
+    /* background-color: rgb(245, 84, 21); */
+    margin: 3px 4px 3px 4px;
+    box-shadow: 2px 2px 12px rgb(135, 180, 248);
+}
+
+/* .nav-link {
+    color: darkorange;
+} */
+
+.nav-item {
+    color: white;
+}
+
+.nav-item:hover {
+    color: darkorange;
+    background-image: url(../images/Textures/mochaGrunge.png);
+    border-width: 1px;
+    border-radius: 6px;
+    box-shadow: 1px 1px 50px white;
+}
+
+
+body {
+    background-image: url(../images/Textures/escheresque_ste_@2X.png);
+}
+
+.bodyDiv {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: darkorange;
+    background-image: url(../images/Textures/topography.png);
+    background-repeat: repeat;
+    padding: 10px;
+    margin: 40px;
+    /* width: 80%; */
+    font-size: 1.2rem;
+}
+
+#bioPic {
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    /* transform: rotate(90deg); */
+    max-width: 70%;
+    background-image: cover;
+    float: left;
+    border-radius: 60%;
+    border-style: solid;
+    border-width: 6px;
+    border-color: rgb(119, 83, 36);
+    box-shadow: 5px 5px black;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 450px){
+
+}

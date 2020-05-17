@@ -1,0 +1,39 @@
+/* .contentBox {
+    background-color: rgba(255, 255, 255 0.6);
+    border-style: solid;
+    border-width: 2px;
+    border-color: darkorange;
+    margin: 10px 10px;
+    padding: 10px 10px;
+} */
+
+.contentThumb {
+    border-style: ridge;
+    border-color: burlywood;
+    border-width: 6px;
+}
+
+.contentThumb {
+    height: 400px;
+    width: auto;   
+}
+
+/* .btn btn-secondary btn-lg {
+     position: absolute;
+     right: -20px;
+} */
+
+.titleBubble {
+    border-style: solid;
+    border-width: 6px;
+    border-color: darkorange;
+    background-color: grey;
+    border-radius: 3px;
+    box-shadow: 3px 3px 2px;
+    padding: 3px;
+    font-size: 1.3rem;
+    /* position: absolute;
+    bottom: -20px;
+    left: -5px; */
+}
+
