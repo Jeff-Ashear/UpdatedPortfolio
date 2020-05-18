@@ -14,8 +14,8 @@
 }
 
 .contentThumb {
-    height: 400px;
-    width: auto;   
+    height: 100%;
+    width: 100%;   
 }
 
 /* .btn btn-secondary btn-lg {
